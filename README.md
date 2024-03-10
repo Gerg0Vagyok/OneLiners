@@ -1,2 +1,2 @@
-# OneLiners
-Some oneliners i'm making for no reason.
+# Oneliners
+(What do i say here?)
